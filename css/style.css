@@ -1,0 +1,44 @@
+/* Generics */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    scroll-behavior: smooth;
+}
+
+html {
+    overflow-y: ;
+}
+
+body {
+    font-family: 'Rubik Mono One', sans-serif;
+}
+
+html, body, main {
+    height: 100vh;
+}
+img {
+    width: 100%;
+}
+
+/* Utilities */
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+/* Nav */
+#main-menu {
+
+}
+
+/* Header */
+
+
+/* Main */
+
+
+/* Section */
+
+
+/* Footer */
