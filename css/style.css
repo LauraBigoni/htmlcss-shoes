@@ -48,7 +48,7 @@ html, body, main {
     font-size: 60px;
 }
 #shoe-1 {
-    background-image: url('/img/background-3.webp');
+    background-image: url('/img/background-1.webp');
 }
 
 #shoe-2 {
@@ -58,6 +58,7 @@ html, body, main {
 #shoe-3 {
     background-image: url('/img/background-5.webp');
 }
+
 /* Nav */
 #main-menu {
     position: fixed;
